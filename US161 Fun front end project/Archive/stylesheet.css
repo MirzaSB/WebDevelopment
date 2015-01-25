@@ -1,0 +1,12 @@
+/*Write your CSS below!*/
+th {
+    font-size:3em;
+    font-family:Times, serif;
+    color:yellow;
+    background-color:red;
+}
+
+table,td {
+	border:2px solid yellow;
+	background-color:red;
+}

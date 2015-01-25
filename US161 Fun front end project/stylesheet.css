@@ -1,0 +1,40 @@
+/*
+	CSS to set background image.
+*/
+html { 
+        background: url('Images/Background.jpg') no-repeat center center fixed; 
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+}
+
+/*
+	CSS to set image sizes.
+*/
+img {
+    height:150px;
+    width:150px;
+}
+
+/*
+	CSS to set the Marvel table.
+*/
+#marvel_table {
+	background-color:red;
+	border-color: yellow
+}
+.mvl_char {
+	border: 2px solid yellow;
+}
+
+/*
+	CSS to set the DC Comics table.
+*/
+#dc_table {
+	background-color: black;
+	border-color: #000066
+}
+.dc_char {
+	border: 2px solid #000066;
+}
